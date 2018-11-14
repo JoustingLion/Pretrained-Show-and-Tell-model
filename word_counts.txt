@@ -20,7 +20,6 @@ at 42204
 people 41672
 are 40768
 next 36794
-white 35874
 woman 33849
 street 30173
 table 29681
@@ -40,13 +39,11 @@ tennis 19485
 near 19450
 his 19304
 front 19296
-black 19187
 train 18217
 dog 18107
 plate 18081
 riding 18081
 room 18076
-red 17185
 young 16971
 cat 16933
 by 16864
@@ -58,13 +55,11 @@ playing 14504
 walking 14492
 bathroom 14339
 sign 14028
-blue 13618
 kitchen 13244
 food 13049
 grass 12917
 there 12678
 bus 12554
-green 12484
 parked 12436
 pizza 12360
 side 12328
@@ -169,7 +164,6 @@ big 5470
 photo 5464
 chair 5454
 view 5416
-light 5410
 bunch 5347
 ocean 5343
 couch 5306
@@ -181,11 +175,9 @@ airplane 5182
 hydrant 5139
 zebra 5116
 fence 5064
-mirror 5022
 teddy 5021
 shirt 4974
 counter 4949
-orange 4933
 women 4924
 sandwich 4898
 hand 4888
@@ -261,7 +253,6 @@ holds 3297
 children 3295
 camera 3288
 doing 3285
-pink 3258
 display 3232
 herd 3228
 suit 3218
@@ -297,7 +288,6 @@ door 2867
 television 2866
 box 2865
 soccer 2856
-colorful 2837
 crowd 2833
 traveling 2813
 animals 2795
