@@ -210,7 +210,6 @@ along 4087
 full 4074
 middle 4052
 ready 3990
-image 3967
 hill 3932
 dirt 3919
 station 3884
@@ -378,6 +377,7 @@ bottle 1921
 scissors 1919
 batter 1913
 screen 1906
+gray 1899
 bag 1898
 sleeping 1877
 donuts 1872
@@ -385,6 +385,7 @@ half 1869
 look 1867
 zoo 1862
 kids 1850
+dark 1842
 way 1834
 number 1833
 enclosure 1832
@@ -423,6 +424,7 @@ past 1642
 oranges 1631
 furniture 1626
 hair 1605
+grey 1604
 swing 1590
 outdoor 1584
 kid 1579
@@ -432,6 +434,7 @@ waves 1567
 coming 1560
 displayed 1548
 drink 1538
+photograph 1534
 '' 1524
 throwing 1523
 attached 1515
@@ -454,12 +457,10 @@ meter 1435
 stone 1434
 hitting 1424
 drinking 1423
-seen 1421
 salad 1421
 walls 1413
 no 1412
 lush 1408
-lit 1407
 apples 1406
 towards 1402
 birthday 1402
@@ -499,7 +500,6 @@ moving 1276
 statue 1271
 teeth 1268
 setting 1266
-pictures 1263
 snowboarder 1262
 rail 1252
 helmet 1252
@@ -650,7 +650,6 @@ takes 869
 vintage 868
 she 861
 pillows 856
-striped 853
 sofa 853
 pulled 850
 crowded 849
@@ -734,7 +733,6 @@ cabinet 731
 cement 729
 christmas 725
 shorts 724
-painting 722
 soup 716
 breakfast 715
 wire 715
@@ -1033,7 +1031,6 @@ nose 405
 alongside 405
 soda 404
 patio 404
-color 403
 displaying 401
 smaller 401
 parade 401
@@ -1292,7 +1289,6 @@ wears 285
 slopes 285
 climbing 285
 microphone 285
-golden 284
 checkered 284
 london 284
 whole 283
@@ -1305,7 +1301,6 @@ beard 281
 skirt 280
 range 279
 officers 279
-shiny 279
 item 279
 reaches 278
 haired 278
@@ -2138,7 +2133,6 @@ boardwalk 115
 cubicle 115
 shapes 115
 conveyor 115
-black-and-white 115
 limb 115
 rectangular 115
 crates 114
@@ -2302,8 +2296,6 @@ united 102
 glowing 102
 done 102
 attractive 102
-viewing 102
-viewed 102
 rough 102
 chandelier 102
 lifting 102
@@ -2753,7 +2745,6 @@ veggie 75
 touches 75
 summer 75
 st. 75
-colorfully 74
 yet 74
 amid 74
 cabinetry 74
@@ -3274,7 +3265,6 @@ vending 52
 reclining 52
 beached 52
 instructions 52
-teal 52
 sesame 52
 waling 52
 packaged 52
@@ -5168,7 +5158,6 @@ lagoon 21
 captures 21
 lavish 21
 sons 21
-reflect 21
 crouch 20
 humming 20
 eighteen 20
@@ -5282,7 +5271,6 @@ rackett 20
 dollhouse 20
 brother 20
 scarves 20
-tinted 20
 ducklings 20
 clowns 20
 samples 20
