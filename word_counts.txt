@@ -92,7 +92,6 @@ girl 9331
 laying 9259
 from 9236
 sits 9200
-picture 8844
 wooden 8808
 bench 8772
 bear 8705
@@ -104,8 +103,6 @@ laptop 8498
 around 8408
 horse 8336
 eating 8321
-brown 8320
-yellow 8263
 cake 8243
 phone 8054
 frisbee 8053
@@ -161,7 +158,6 @@ back 5513
 bowl 5502
 stands 5470
 big 5470
-photo 5464
 chair 5454
 view 5416
 bunch 5347
@@ -382,7 +378,6 @@ bottle 1921
 scissors 1919
 batter 1913
 screen 1906
-gray 1899
 bag 1898
 sleeping 1877
 donuts 1872
@@ -390,7 +385,6 @@ half 1869
 look 1867
 zoo 1862
 kids 1850
-dark 1842
 way 1834
 number 1833
 enclosure 1832
@@ -406,11 +400,9 @@ between 1787
 carrots 1768
 play 1763
 adult 1753
-colored 1750
 decorated 1741
 toy 1741
 pile 1732
-silver 1728
 lake 1728
 few 1713
 boys 1702
@@ -424,7 +416,6 @@ skiers 1680
 older 1671
 meal 1665
 seat 1663
-purple 1652
 girls 1646
 bread 1646
 past 1642
@@ -432,7 +423,6 @@ past 1642
 oranges 1631
 furniture 1626
 hair 1605
-grey 1604
 swing 1590
 outdoor 1584
 kid 1579
@@ -442,7 +432,6 @@ waves 1567
 coming 1560
 displayed 1548
 drink 1538
-photograph 1534
 '' 1524
 throwing 1523
 attached 1515
