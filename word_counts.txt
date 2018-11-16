@@ -9027,7 +9027,6 @@ blanketed 6
 pods 6
 irises 6
 sailer 6
-off-white 6
 omelets 6
 easier 6
 buiding 6
@@ -9068,7 +9067,6 @@ placemats 6
 encompassing 6
 savory 6
 raggedy 6
-blue-green 6
 applies 6
 certainly 6
 para-surfing 6
@@ -9219,7 +9217,6 @@ hotplate 6
 identically 6
 idyllic 6
 james 6
-tie-dyed 6
 comparison 6
 gump 6
 exceptionally 6
@@ -9566,7 +9563,6 @@ lushly 5
 cellophane 5
 dealer 5
 actor 5
-visual 5
 dwarfs 5
 suggesting 5
 managing 5
@@ -9853,7 +9849,6 @@ accepts 5
 wan 5
 true 5
 computing 5
-white-tiled 5
 baggie 5
 sequential 5
 muslim 5
@@ -10060,7 +10055,6 @@ well-decorated 5
 autos 5
 scrolls 5
 cut-up 5
-whtie 5
 zips 5
 furred 5
 overlapping 5
@@ -10668,7 +10662,6 @@ developing 4
 hens 4
 pitbull 4
 barbecuing 4
-silverwear 4
 salem 4
 baloons 4
 trudging 4
