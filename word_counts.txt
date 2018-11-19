@@ -280,7 +280,6 @@ boats 2898
 double 2874
 airport 2869
 door 2867
-television 2866
 box 2865
 soccer 2856
 crowd 2833
@@ -377,15 +376,13 @@ bottle 1921
 scissors 1919
 batter 1913
 screen 1906
-gray 1899
 bag 1898
 sleeping 1877
 donuts 1872
 half 1869
 look 1867
 zoo 1862
-kids 1850
-dark 1842
+kids 185
 way 1834
 number 1833
 enclosure 1832
@@ -474,7 +471,6 @@ fruits 1359
 rain 1355
 windows 1351
 public 1349
-bright 1347
 apple 1339
 sunny 1337
 blanket 1330
@@ -1013,7 +1009,6 @@ but 416
 here 416
 turned 415
 hats 415
-brightly 415
 tiny 414
 mound 414
 remotes 414
@@ -1129,7 +1124,6 @@ direction 351
 pulls 351
 collection 351
 beverage 350
-art 348
 posted 347
 shoe 347
 neatly 346
@@ -1266,13 +1260,11 @@ faces 295
 horseback 294
 counters 294
 visible 294
-neon 293
 featuring 293
 handle 293
 asleep 293
 mixed 293
 surrounding 293
-blonde 292
 pack 291
 rolls 291
 habitat 290
@@ -1352,7 +1344,6 @@ fountain 261
 ahead 260
 corn 259
 rusted 259
-plaid 259
 ham 257
 condiments 257
 potato 257
@@ -1369,7 +1360,6 @@ fishing 254
 lane 253
 tabby 253
 thin 253
-rainbow 252
 flooring 252
 foil 251
 clay 251
@@ -1389,7 +1379,6 @@ exhibit 245
 pet 245
 either 245
 posed 245
-shadow 244
 hospital 244
 forward 244
 cafe 243
@@ -1447,7 +1436,6 @@ chinese 232
 lay 232
 teams 231
 accessories 231
-multicolored 231
 coach 231
 freshly 231
 paw 231
@@ -1513,7 +1501,6 @@ bakery 214
 downtown 214
 metallic 213
 audience 213
-shining 213
 poster 213
 sniffing 213
 resort 213
@@ -1526,7 +1513,6 @@ rails 211
 baggage 211
 worker 211
 devices 211
-sunlight 210
 busses 210
 dryer 210
 rose 210
@@ -1623,7 +1609,6 @@ piano 191
 word 191
 taxi 190
 bats 190
-daytime 190
 bikini 190
 besides 190
 lemons 190
@@ -2006,8 +1991,6 @@ star 127
 storm 127
 digital 127
 knees 127
-photographed 127
-scenic 126
 circus 126
 plains 126
 stroller 126
@@ -2017,7 +2000,6 @@ such 126
 grown 126
 swim 125
 chopsticks 125
-multi-colored 125
 read 125
 british 125
 grab 125
@@ -2102,7 +2084,6 @@ map 118
 cathedral 118
 stepping 118
 stretched 118
-stripes 118
 lie 117
 shoulders 117
 planter 117
@@ -2180,7 +2161,6 @@ pies 111
 tissue 111
 skillet 111
 when 111
-blurred 111
 rubbing 111
 tee 111
 dipping 111
@@ -2192,7 +2172,6 @@ grandfather 110
 serves 110
 texting 110
 younger 110
-artwork 110
 dozen 109
 mountainous 109
 skinny 109
@@ -2352,7 +2331,6 @@ warm 98
 iced 98
 hoodie 97
 celery 97
-stripped 97
 local 97
 wheelchair 97
 ridding 97
@@ -2366,7 +2344,6 @@ engines 97
 sharp 97
 grouped 97
 compact 96
-stripe 96
 towed 96
 ad 96
 transport 96
@@ -2974,12 +2951,10 @@ blows 63
 wok 63
 kicks 63
 depicts 63
-turquoise 63
 sprouts 63
 stem 63
 belly 63
 random 63
-shadows 63
 easy 63
 lanes 63
 skyscraper 63
@@ -2988,7 +2963,6 @@ liner 63
 homes 63
 brand 63
 removed 63
-faded 62
 dilapidated 62
 submerged 62
 kiss 62
@@ -3041,7 +3015,6 @@ smoothie 60
 ropes 60
 flavored 60
 linens 60
-pale 60
 wetsuits 60
 crafts 60
 me 60
@@ -3058,7 +3031,6 @@ ascending 59
 caboose 59
 burnt 59
 tilted 59
-sepia 59
 grouping 59
 wheeler 59
 goose 59
