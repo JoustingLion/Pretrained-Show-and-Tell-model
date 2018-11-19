@@ -3093,7 +3093,6 @@ already 57
 vendors 57
 twilight 57
 lifted 57
-camouflage 57
 arrows 57
 canada 57
 littered 57
@@ -3240,7 +3239,6 @@ instructions 52
 sesame 52
 waling 52
 packaged 52
-sunshine 52
 cramped 52
 got 52
 scissor 52
@@ -3856,7 +3854,6 @@ ceilings 37
 performance 37
 perspective 37
 presenting 37
-blur 37
 beads 37
 taco 37
 unknown 37
