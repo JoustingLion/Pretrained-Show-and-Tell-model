@@ -4203,7 +4203,6 @@ whom 32
 crash 32
 era 31
 o'clock 31
-blind 31
 urn 31
 oar 31
 restaurants 31
@@ -6196,7 +6195,6 @@ backing 14
 popcorn 14
 falcon 14
 parakeet 14
-yellowish 14
 halter 14
 transparent 14
 angrily 14
@@ -6246,7 +6244,6 @@ frisbie 13
 wrinkled 13
 harnesses 13
 amish 13
-glows 13
 rods 13
 become 13
 trainers 13
@@ -6332,7 +6329,6 @@ campers 13
 necklaces 13
 providing 13
 nutritious 13
-greenish 13
 stains 13
 cents 13
 struggles 13
